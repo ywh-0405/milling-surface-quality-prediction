@@ -1,0 +1,4 @@
+sample_id,spindle_speed_rpm,feed_per_tooth_mm,axial_depth_mm,radial_depth_mm,tool_flutes,vib_x_rms,vib_x_std,vib_x_peak,vib_x_pp,vib_y_rms,vib_y_std,vib_y_peak,vib_y_pp,vib_z_rms,vib_z_std,vib_z_peak,vib_z_pp,Ra_um,freq_bin_1,freq_bin_2,freq_bin_3,freq_bin_4,freq_bin_5,freq_bin_6,freq_bin_7,freq_bin_8
+S001,6000,0.05,1.0,2.0,4,0.10,0.09,0.22,0.41,0.08,0.07,0.19,0.36,0.06,0.05,0.15,0.30,0.85,0.21,0.18,0.15,0.13,0.11,0.09,0.08,0.05
+S002,4500,0.04,0.8,1.6,4,0.09,0.08,0.20,0.39,0.07,0.06,0.17,0.33,0.05,0.04,0.13,0.26,0.72,0.24,0.19,0.15,0.12,0.10,0.08,0.07,0.05
+S003,7200,0.06,1.2,2.4,4,0.13,0.11,0.28,0.49,0.10,0.09,0.23,0.41,0.07,0.06,0.17,0.31,0.98,0.20,0.17,0.15,0.14,0.12,0.09,0.08,0.05

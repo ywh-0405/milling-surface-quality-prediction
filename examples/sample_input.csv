@@ -1,0 +1,3 @@
+sample_id,spindle_speed_rpm,feed_per_tooth_mm,axial_depth_mm,radial_depth_mm,tool_flutes,vib_x_rms,vib_x_std,vib_x_peak,vib_x_pp,vib_y_rms,vib_y_std,vib_y_peak,vib_y_pp,vib_z_rms,vib_z_std,vib_z_peak,vib_z_pp,spindle_freq_hz,tooth_pass_freq_hz,feed_rate_mm_min
+P001,4500,0.04,0.8,1.8,4,0.09,0.08,0.20,0.38,0.07,0.06,0.17,0.32,0.05,0.04,0.13,0.26,75.0,300.0,720.0
+

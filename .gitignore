@@ -1,0 +1,13 @@
+.worktrees/
+.claude/
+.codex
+__pycache__/
+.pytest_cache/
+data/processed/*
+!data/processed/.gitkeep
+data/synthetic/*
+!data/synthetic/.gitkeep
+outputs/lite/*
+!outputs/lite/.gitkeep
+outputs/research/*
+!outputs/research/.gitkeep
